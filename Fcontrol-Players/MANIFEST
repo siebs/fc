@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Fcontrol-Players.t
+lib/Fcontrol/Players.pm

@@ -1,0 +1,6 @@
+Revision history for Perl extension Fcontrol::Players.
+
+0.01  Tue Oct  7 19:01:22 2014
+	- original version; created by h2xs 1.23 with options
+		-AXn Fcontrol::Players
+
